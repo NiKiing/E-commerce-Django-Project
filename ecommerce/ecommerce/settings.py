@@ -122,7 +122,7 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
-    '/home/nikiing/Desktop/Ecommerce-website/ecommerce/ecommerce/static',
+    '/home/nikiing/Desktop/Ecommerce-website/ecommerce/static',
 
 ]
 
